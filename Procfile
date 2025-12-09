@@ -1,1 +1,0 @@
-web: python face_recognition_api.py
